@@ -13,7 +13,7 @@ I haven't been a big fan of Harry Potter franchise, nor the wizarding world at a
 The whole idea is to create a completely _free_ version of Copilot. So I used [BigScience's BLOOM](https://huggingface.com/bigscience/bloom) as the language model and I got pretty good results.
 
 ## TODO
-- [ ] Proof of concept with BLOOM
+- [x] Proof of concept with BLOOM
 - [ ] Fuzzy Matching
 - [ ] A simple API
 - [ ] Web based demo
