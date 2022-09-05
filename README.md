@@ -14,7 +14,7 @@ The whole idea is to create a completely _free_ version of Copilot. So I used [B
 
 ## TODO
 - [x] Proof of concept with BLOOM
-- [ ] Fuzzy Matching
+- [x] Fuzzy Matching
 - [ ] A simple API
 - [ ] Web based demo
 - [ ] VSCode extension
