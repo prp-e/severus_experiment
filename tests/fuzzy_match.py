@@ -14,3 +14,6 @@ while True:
     ret, frame = camera.read()
     cv2.imshow('frame', frame)
 """
+
+ratio = fuzz.ratio(commented_code, ai_code)
+print(ratio, type(ratio))
