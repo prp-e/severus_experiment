@@ -16,6 +16,7 @@ The whole idea is to create a completely _free_ version of Copilot. So I used [B
 - [x] Proof of concept with BLOOM
 - [x] Fuzzy Matching
 - [x] Add fuzzy check to the engine
+- [ ] Design a standalone version in python
 - [ ] A simple API
 - [ ] Web based demo
 - [ ] VSCode extension
