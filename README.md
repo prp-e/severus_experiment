@@ -11,3 +11,5 @@ I haven't been a big fan of Harry Potter franchise, nor the wizarding world at a
 ![Screenshot of the first generated codes](https://haghiri75.com/en/wp-content/uploads/Screen-Shot-2022-09-03-at-10.46.46-PM.png)
 
 The whole idea is to create a completely _free_ version of Copilot. So I used [BigScience's BLOOM](https://huggingface.com/bigscience/bloom) as the language model and I got pretty good results.
+
+## TODO
