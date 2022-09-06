@@ -18,5 +18,6 @@ The whole idea is to create a completely _free_ version of Copilot. So I used [B
 - [x] Add fuzzy check to the engine
 - [x] Design a standalone version in python
 - [ ] A simple API
+- [ ] Deploying on a server (since I'm using huggingface's API, it can become a little tricky)
 - [ ] Web based demo
 - [ ] VSCode extension
